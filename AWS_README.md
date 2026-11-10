@@ -215,6 +215,8 @@ This project provided practical experience in:
 
 **Project Status: Successfully Completed**
 
+git clone https://github.com/Swatii18/aws-ec2-ecr-ecs-deployment.git
+
 **Project:** Dockerized Flask and Node.js Application – AWS Deployment
 
 **Author:** Swati Singh Chauhan
